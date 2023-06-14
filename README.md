@@ -15,7 +15,7 @@
 ## Atd.
 * Tato hra vám nabízí možnost vidět skóre z vaší poslední a nejlepší hry
 * Též můžete vidět časovač ať víte jak dlouho hrajete
-* A kdybyste se hrabali v souborech a smazali soubory s vaším skóre, stačí jen spustit a samo se to vyřeší
+* A kdybyste se hrabali v souborech a smazali soubory s vaším skóre, stačí jen spustit a samo se to vyřeší (=Tedy ono se to vynuluje, ale hra vám nebude padat)
 
 
 
