@@ -3,9 +3,9 @@
 * Zkopírujte si url
 * Naklonujte jej do VS 2022 pomocí url
 * Stiskněte spustit a hrajte
-
-
-
+ 
+ 
+ 
 ## Pravidla
 * Vrázite do zdi => smrt
 * Vrazáte do ocasu => smrt
