@@ -4,14 +4,21 @@
 * Naklonujte jej do VS 2022 pomocí url
 * Stiskněte spustit a hrajte
 
+
+
 ## Pravidla
 * Vrázite do zdi => smrt
 * Vrazáte do ocasu => smrt
+
+
 
 ## Atd.
 * Tato hra vám nabízí možnost vidět skóre z vaší poslední a nejlepší hry
 * Též můžete vidět časovač ať víte jak dlouho hrajete
 * A kdybyste se hrabali v souborech a smazali soubory s vaším skóre, stačí jen spustit a samo se to vyřeší
+
+
+
 
 ## Ovládání
 ### Pohyb
