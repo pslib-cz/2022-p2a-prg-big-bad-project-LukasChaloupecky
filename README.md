@@ -1,4 +1,4 @@
-### Snake
+# Snake
 ## Jak stáhnout
 * Zkopírujte si url
 * Naklonujte jej do VS 2022 pomocí url
@@ -14,13 +14,13 @@
 * A kdybyste se hrabali v souborech a smazali soubory s vaším skóre, stačí jen spustit a samo se to vyřeší
 
 ## Ovládání
-# Pohyb
+### Pohyb
 * W/UpKey - nahoru
 * S/DownKey - dolů
 * A/LeftKey - doleva
 * D/RightKey - doprava
 
-# Menu
+### Menu
 * W/UpKey - nahoru
 * S/DownKey - dolů
 * Escape - opustit momentálně hranou hru
