@@ -29,7 +29,7 @@ namespace SnakeGame
             Console.BufferHeight = Console.WindowHeight; // disable the thing on right side for scrolling down
 
 
-            Console.WriteLine("Set text size => 22-54 by clicking on the text console logo in top left corner");
+            Console.WriteLine("Set text size => 28 by clicking on the text console logo in top left corner");
             Console.WriteLine("Set to fullscreen => F11");
             
             Console.ReadKey(true);
