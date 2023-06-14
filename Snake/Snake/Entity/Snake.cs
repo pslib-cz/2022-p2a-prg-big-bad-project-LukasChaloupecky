@@ -13,6 +13,8 @@ namespace SnakeGame.Entity
         public List<Coords> Body;
         public Coords Head;
         public DirectionEnum Direction = DirectionEnum.STAY;
+        public DirectionEnum PrevDire = DirectionEnum.STAY;
+
         public readonly string HeadChar = "▲▼◄►▲";
         public bool isAlive = false;
 
@@ -25,20 +27,22 @@ namespace SnakeGame.Entity
         public void SetDirection(ConsoleKey Key)
         {
            
-            if (Key == ConsoleKey.W || Key == ConsoleKey.UpArrow)
+            if ((Key == ConsoleKey.W || Key == ConsoleKey.UpArrow) && ((Body.Count > 0 && PrevDire != DirectionEnum.DOWN) || Body.Count == 0))
             {
                 
                 Direction = DirectionEnum.UP;
+                
+                
             }
-            else if (Key == ConsoleKey.S || Key == ConsoleKey.DownArrow)
+            else if ((Key == ConsoleKey.S || Key == ConsoleKey.DownArrow) && ((Body.Count > 0 && PrevDire != DirectionEnum.UP) || Body.Count == 0))
             {
                 Direction = DirectionEnum.DOWN;
             }
-            else if (Key == ConsoleKey.A || Key == ConsoleKey.LeftArrow)
+            else if ((Key == ConsoleKey.A || Key == ConsoleKey.LeftArrow) && ((Body.Count > 0 && PrevDire != DirectionEnum.RIGHT) || Body.Count == 0))
             {
                 Direction = DirectionEnum.LEFT;
             }
-            else if (Key == ConsoleKey.D || Key == ConsoleKey.RightArrow)
+            else if ((Key == ConsoleKey.D || Key == ConsoleKey.RightArrow) && ((Body.Count > 0 && PrevDire != DirectionEnum.LEFT) || Body.Count == 0))
             {
                 Direction = DirectionEnum.RIGHT; ;
             }
@@ -48,6 +52,7 @@ namespace SnakeGame.Entity
             if (Direction != DirectionEnum.STAY)
             {
                 Body.Add(new Coords(Head.X, Head.Y));
+                PrevDire = Direction;
                 if (Direction == DirectionEnum.UP)
                 {
                     Head.Y -= 1;
@@ -64,6 +69,7 @@ namespace SnakeGame.Entity
                 {
                     Head.X += 1;
                 }
+                
             }
         }
 
