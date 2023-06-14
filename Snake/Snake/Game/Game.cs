@@ -17,6 +17,9 @@ namespace SnakeGame.Games
         public Fruit Fruit;
         public int Score = 0;
         public readonly char BorderChar = '█';
+
+        public bool EndedByDeath = false;
+
         public Stopwatch sw;
         public Game() 
         {
@@ -138,6 +141,8 @@ namespace SnakeGame.Games
             }
             else
             {
+                Snake.isAlive = false;
+                EndedByDeath = true;
                 Save.WriteMaxScore(Score);
                 Save.WriteLastScore(Score);
                 
@@ -146,5 +151,7 @@ namespace SnakeGame.Games
 
 
         }
+
+        
     }
 }

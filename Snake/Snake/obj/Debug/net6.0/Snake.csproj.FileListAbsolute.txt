@@ -61,3 +61,4 @@ C:\Users\lukas.chaloupe.021\Source\Repos\2022-p2a-prg-big-bad-project-LukasChalo
 C:\Users\lukas.chaloupe.021\Source\Repos\2022-p2a-prg-big-bad-project-LukasChaloupecky__\Snake\Snake\obj\Debug\net6.0\Snake.pdb
 C:\Users\lukas.chaloupe.021\Source\Repos\2022-p2a-prg-big-bad-project-LukasChaloupecky__\Snake\Snake\obj\Debug\net6.0\Snake.genruntimeconfig.cache
 C:\Users\lukas.chaloupe.021\Source\Repos\2022-p2a-prg-big-bad-project-LukasChaloupecky__\Snake\Snake\obj\Debug\net6.0\ref\Snake.dll
+C:\Users\lukas.chaloupe.021\Source\Repos\2022-p2a-prg-big-bad-project-LukasChaloupecky__\Snake\Snake\bin\Debug\net6.0\Data\DeathScreen.txt

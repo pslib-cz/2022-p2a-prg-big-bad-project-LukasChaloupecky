@@ -87,5 +87,19 @@ namespace SnakeGame.Games
                 }
             }
         }
+        public static void ShowDeathScreen()
+        {
+            Console.Clear();
+            string line = "";
+            using (StreamReader sr = new StreamReader("Data/DeathScreen.txt")) 
+            {
+                while((line = sr.ReadLine()) != null)
+                {
+                    Console.WriteLine(line);
+                }
+            }
+
+
+        }
     }
 }

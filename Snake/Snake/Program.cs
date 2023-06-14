@@ -40,7 +40,7 @@ namespace SnakeGame
                 while (IsRunning)
                 {
                     // if we started, died or quit
-                    Menu.ShowMenu(ref game, ref IsRunning, ref TimeOut);
+                    
 
                     // Pokud hrajeme
                     while (game.Snake.isAlive)
@@ -51,7 +51,7 @@ namespace SnakeGame
                         // Sleep for time
                         Thread.Sleep(TimeOut);
                     }
-                    
+                    Menu.ShowMenu(ref game, ref IsRunning, ref TimeOut);
                 }
 
             })).Start(); 
@@ -77,6 +77,8 @@ namespace SnakeGame
                     }
                 }
                 
+
+
             }
          
 

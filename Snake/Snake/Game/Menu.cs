@@ -11,18 +11,23 @@ namespace SnakeGame.Games
     {
         public static void ShowMenu(ref Game game, ref bool IsRunning, ref int TimeOut)
         {
+
+            
             int OptionCount = 2; // THIS VALUE IS IMPORTANT - NEED TO CHANGE IF MORE OPTIONS ARE ADDED TO MENU (etc. 3 options => OptionCount = 2)
             Console.CursorVisible = false;
             Keys Option = Keys.STAY;
+            
             int Selected = 0;
-            WriteMenu(Selected);
+            if (game.EndedByDeath) { Save.ShowDeathScreen(); Console.ReadKey(); }
+            
+            WriteMenu(Selected) ;
 
             while(true)
             {
-                if(Console.KeyAvailable)
+                if(Console.KeyAvailable || game.EndedByDeath) 
                 {
-                    Option = GetKeyNumber(Console.ReadKey(true).Key);
                     
+                    Option = GetKeyNumber(Console.ReadKey(true).Key);
                     // Do code based on Key
                     if(Option == Keys.UP)
                     {
@@ -129,6 +134,7 @@ namespace SnakeGame.Games
                     CorrectValue = false;
                 }
             }
+
             TimeOut = TimeOut_;
             game = new Game(boxX, boxY, new Stopwatch());
             game.Snake.isAlive = true;
