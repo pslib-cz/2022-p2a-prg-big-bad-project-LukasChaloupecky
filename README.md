@@ -33,7 +33,7 @@
 * Escape - opustit momentálně hranou hru
 * Enter - vybrat možnost v menu
   
-<br>
+
 ## Nabídka menu
 * Start new game - začne novou hru
 * Credits - "nudný" prank o instalaci virusu
