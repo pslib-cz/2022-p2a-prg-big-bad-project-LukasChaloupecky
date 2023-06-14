@@ -44,7 +44,7 @@ namespace SnakeGame.Games
             
             for(int i = 0; i < sizeY; i++)
             {
-                Console.BackgroundColor = ConsoleColor.Gray; // inside box color
+                Console.BackgroundColor = ConsoleColor.Black; // inside box color
                 Console.SetCursorPosition(0, i);
                 Console.WriteLine(new string(' ', sizeX+1));
             }

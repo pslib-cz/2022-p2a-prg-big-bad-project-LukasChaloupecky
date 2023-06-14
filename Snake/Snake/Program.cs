@@ -64,7 +64,7 @@ namespace SnakeGame
                 { 
                     game.sw.Start(); 
                     Console.CursorVisible = false;
-                    while (game.Snake.isAlive)
+                    while (true)
                     {
                         Key = Console.ReadKey(true).Key;
                         if (Key == MenuKey)
