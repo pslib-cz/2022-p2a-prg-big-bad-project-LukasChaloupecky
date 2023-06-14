@@ -1,0 +1,419 @@
+﻿Virus Installation: 10%
+Virus Installation: 20%
+Virus Installation: 30%
+Virus Installation: 40%
+Virus Installation: 50%
+Virus Installation: 60%
+Virus Installation: 70%
+Virus Installation: 80%
+Virus Installation: 90%
+Virus Installation: 100%
+
+Installation completed
+
+Virus.Started: downloading packages - 10%
+Virus.Started: downloading packages - 20%
+Virus.Started: downloading packages - 30%
+Virus.Started: downloading packages - 40%
+Virus.Started: downloading packages - 50%
+Virus.Started: downloading packages - 60%
+Virus.Started: downloading packages - 70%
+Virus.Started: downloading packages - 80%
+Virus.Started: downloading packages - 90%
+Virus.Started: downloading packages - 100%
+
+Package 1 of 10: Downloading - 10%
+Package 1 of 10: Downloading - 20%
+Package 1 of 10: Downloading - 30%
+Package 1 of 10: Downloading - 40%
+Package 1 of 10: Downloading - 50%
+Package 1 of 10: Downloading - 60%
+Package 1 of 10: Downloading - 70%
+Package 1 of 10: Downloading - 80%
+Package 1 of 10: Downloading - 90%
+Package 1 of 10: Downloading - 100%
+Package 2 of 10: Downloading - 10%
+Package 2 of 10: Downloading - 20%
+Package 2 of 10: Downloading - 30%
+Package 2 of 10: Downloading - 40%
+Package 2 of 10: Downloading - 50%
+Package 2 of 10: Downloading - 60%
+Package 2 of 10: Downloading - 70%
+Package 2 of 10: Downloading - 80%
+Package 2 of 10: Downloading - 90%
+Package 2 of 10: Downloading - 100%
+Package 3 of 10: Downloading - 10%
+Package 3 of 10: Downloading - 20%
+Package 3 of 10: Downloading - 30%
+Package 3 of 10: Downloading - 40%
+Package 3 of 10: Downloading - 50%
+Package 3 of 10: Downloading - 60%
+Package 3 of 10: Downloading - 70%
+Package 3 of 10: Downloading - 80%
+Package 3 of 10: Downloading - 90%
+Package 3 of 10: Downloading - 100%
+Package 4 of 10: Downloading - 10%
+Package 4 of 10: Downloading - 20%
+Package 4 of 10: Downloading - 30%
+Package 4 of 10: Downloading - 40%
+Package 4 of 10: Downloading - 50%
+Package 4 of 10: Downloading - 60%
+Package 4 of 10: Downloading - 70%
+Package 4 of 10: Downloading - 80%
+Package 4 of 10: Downloading - 90%
+Package 4 of 10: Downloading - 100%
+
+extension.Virus1 launched
+extension.Virus2 launched
+extension.Virus3 launched
+extension.Virus4 launched
+extension.Virus5 launched
+extension.Virus6 launched
+extension.Virus7 launched
+extension.Virus8 launched
+extension.Virus9 launched
+
+Stealing userData.name
+Stealing userData.bankInfo
+Stealing userData.adr
+Stealing userData.age
+Stealing userData.bloodtype
+
+Stealing Completed -->
+
+Virus Installation: 10%
+Virus Installation: 20%
+Virus Installation: 30%
+Virus Installation: 40%
+Virus Installation: 50%
+Virus Installation: 60%
+Virus Installation: 70%
+Virus Installation: 80%
+Virus Installation: 90%
+Virus Installation: 100%
+
+Installation completed
+
+Virus.Started: downloading packages - 10%
+Virus.Started: downloading packages - 20%
+Virus.Started: downloading packages - 30%
+Virus.Started: downloading packages - 40%
+Virus.Started: downloading packages - 50%
+Virus.Started: downloading packages - 60%
+Virus.Started: downloading packages - 70%
+Virus.Started: downloading packages - 80%
+Virus.Started: downloading packages - 90%
+Virus.Started: downloading packages - 100%
+
+Package 1 of 10: Downloading - 10%
+Package 1 of 10: Downloading - 20%
+Package 1 of 10: Downloading - 30%
+Package 1 of 10: Downloading - 40%
+Package 1 of 10: Downloading - 50%
+Package 1 of 10: Downloading - 60%
+Package 1 of 10: Downloading - 70%
+Package 1 of 10: Downloading - 80%
+Package 1 of 10: Downloading - 90%
+Package 1 of 10: Downloading - 100%
+Package 2 of 10: Downloading - 10%
+Package 2 of 10: Downloading - 20%
+Package 2 of 10: Downloading - 30%
+Package 2 of 10: Downloading - 40%
+Package 2 of 10: Downloading - 50%
+Package 2 of 10: Downloading - 60%
+Package 2 of 10: Downloading - 70%
+Package 2 of 10: Downloading - 80%
+Package 2 of 10: Downloading - 90%
+Package 2 of 10: Downloading - 100%
+Package 3 of 10: Downloading - 10%
+Package 3 of 10: Downloading - 20%
+Package 3 of 10: Downloading - 30%
+Package 3 of 10: Downloading - 40%
+Package 3 of 10: Downloading - 50%
+Package 3 of 10: Downloading - 60%
+Package 3 of 10: Downloading - 70%
+Package 3 of 10: Downloading - 80%
+Package 3 of 10: Downloading - 90%
+Package 3 of 10: Downloading - 100%
+Package 4 of 10: Downloading - 10%
+Package 4 of 10: Downloading - 20%
+Package 4 of 10: Downloading - 30%
+Package 4 of 10: Downloading - 40%
+Package 4 of 10: Downloading - 50%
+Package 4 of 10: Downloading - 60%
+Package 4 of 10: Downloading - 70%
+Package 4 of 10: Downloading - 80%
+Package 4 of 10: Downloading - 90%
+Package 4 of 10: Downloading - 100%
+
+extension.Virus1 launched
+extension.Virus2 launched
+extension.Virus3 launched
+extension.Virus4 launched
+extension.Virus5 launched
+extension.Virus6 launched
+extension.Virus7 launched
+extension.Virus8 launched
+extension.Virus9 launched
+
+Stealing userData.name
+Stealing userData.bankInfo
+Stealing userData.adr
+Stealing userData.age
+Stealing userData.bloodtype
+
+Stealing Completed -->
+
+
+Virus Installation: 10%
+Virus Installation: 20%
+Virus Installation: 30%
+Virus Installation: 40%
+Virus Installation: 50%
+Virus Installation: 60%
+Virus Installation: 70%
+Virus Installation: 80%
+Virus Installation: 90%
+Virus Installation: 100%
+
+Installation completed
+
+Virus.Started: downloading packages - 10%
+Virus.Started: downloading packages - 20%
+Virus.Started: downloading packages - 30%
+Virus.Started: downloading packages - 40%
+Virus.Started: downloading packages - 50%
+Virus.Started: downloading packages - 60%
+Virus.Started: downloading packages - 70%
+Virus.Started: downloading packages - 80%
+Virus.Started: downloading packages - 90%
+Virus.Started: downloading packages - 100%
+
+Package 1 of 10: Downloading - 10%
+Package 1 of 10: Downloading - 20%
+Package 1 of 10: Downloading - 30%
+Package 1 of 10: Downloading - 40%
+Package 1 of 10: Downloading - 50%
+Package 1 of 10: Downloading - 60%
+Package 1 of 10: Downloading - 70%
+Package 1 of 10: Downloading - 80%
+Package 1 of 10: Downloading - 90%
+Package 1 of 10: Downloading - 100%
+Package 2 of 10: Downloading - 10%
+Package 2 of 10: Downloading - 20%
+Package 2 of 10: Downloading - 30%
+Package 2 of 10: Downloading - 40%
+Package 2 of 10: Downloading - 50%
+Package 2 of 10: Downloading - 60%
+Package 2 of 10: Downloading - 70%
+Package 2 of 10: Downloading - 80%
+Package 2 of 10: Downloading - 90%
+Package 2 of 10: Downloading - 100%
+Package 3 of 10: Downloading - 10%
+Package 3 of 10: Downloading - 20%
+Package 3 of 10: Downloading - 30%
+Package 3 of 10: Downloading - 40%
+Package 3 of 10: Downloading - 50%
+Package 3 of 10: Downloading - 60%
+Package 3 of 10: Downloading - 70%
+Package 3 of 10: Downloading - 80%
+Package 3 of 10: Downloading - 90%
+Package 3 of 10: Downloading - 100%
+Package 4 of 10: Downloading - 10%
+Package 4 of 10: Downloading - 20%
+Package 4 of 10: Downloading - 30%
+Package 4 of 10: Downloading - 40%
+Package 4 of 10: Downloading - 50%
+Package 4 of 10: Downloading - 60%
+Package 4 of 10: Downloading - 70%
+Package 4 of 10: Downloading - 80%
+Package 4 of 10: Downloading - 90%
+Package 4 of 10: Downloading - 100%
+
+extension.Virus1 launched
+extension.Virus2 launched
+extension.Virus3 launched
+extension.Virus4 launched
+extension.Virus5 launched
+extension.Virus6 launched
+extension.Virus7 launched
+extension.Virus8 launched
+extension.Virus9 launched
+
+Stealing userData.name
+Stealing userData.bankInfo
+Stealing userData.adr
+Stealing userData.age
+Stealing userData.bloodtype
+
+Stealing Completed -->
+
+
+Virus Installation: 10%
+Virus Installation: 20%
+Virus Installation: 30%
+Virus Installation: 40%
+Virus Installation: 50%
+Virus Installation: 60%
+Virus Installation: 70%
+Virus Installation: 80%
+Virus Installation: 90%
+Virus Installation: 100%
+
+Installation completed
+
+Virus.Started: downloading packages - 10%
+Virus.Started: downloading packages - 20%
+Virus.Started: downloading packages - 30%
+Virus.Started: downloading packages - 40%
+Virus.Started: downloading packages - 50%
+Virus.Started: downloading packages - 60%
+Virus.Started: downloading packages - 70%
+Virus.Started: downloading packages - 80%
+Virus.Started: downloading packages - 90%
+Virus.Started: downloading packages - 100%
+
+Package 1 of 10: Downloading - 10%
+Package 1 of 10: Downloading - 20%
+Package 1 of 10: Downloading - 30%
+Package 1 of 10: Downloading - 40%
+Package 1 of 10: Downloading - 50%
+Package 1 of 10: Downloading - 60%
+Package 1 of 10: Downloading - 70%
+Package 1 of 10: Downloading - 80%
+Package 1 of 10: Downloading - 90%
+Package 1 of 10: Downloading - 100%
+Package 2 of 10: Downloading - 10%
+Package 2 of 10: Downloading - 20%
+Package 2 of 10: Downloading - 30%
+Package 2 of 10: Downloading - 40%
+Package 2 of 10: Downloading - 50%
+Package 2 of 10: Downloading - 60%
+Package 2 of 10: Downloading - 70%
+Package 2 of 10: Downloading - 80%
+Package 2 of 10: Downloading - 90%
+Package 2 of 10: Downloading - 100%
+Package 3 of 10: Downloading - 10%
+Package 3 of 10: Downloading - 20%
+Package 3 of 10: Downloading - 30%
+Package 3 of 10: Downloading - 40%
+Package 3 of 10: Downloading - 50%
+Package 3 of 10: Downloading - 60%
+Package 3 of 10: Downloading - 70%
+Package 3 of 10: Downloading - 80%
+Package 3 of 10: Downloading - 90%
+Package 3 of 10: Downloading - 100%
+Package 4 of 10: Downloading - 10%
+Package 4 of 10: Downloading - 20%
+Package 4 of 10: Downloading - 30%
+Package 4 of 10: Downloading - 40%
+Package 4 of 10: Downloading - 50%
+Package 4 of 10: Downloading - 60%
+Package 4 of 10: Downloading - 70%
+Package 4 of 10: Downloading - 80%
+Package 4 of 10: Downloading - 90%
+Package 4 of 10: Downloading - 100%
+
+extension.Virus1 launched
+extension.Virus2 launched
+extension.Virus3 launched
+extension.Virus4 launched
+extension.Virus5 launched
+extension.Virus6 launched
+extension.Virus7 launched
+extension.Virus8 launched
+extension.Virus9 launched
+
+Stealing userData.name
+Stealing userData.bankInfo
+Stealing userData.adr
+Stealing userData.age
+Stealing userData.bloodtype
+
+Stealing Completed -->
+
+
+Virus Installation: 10%
+Virus Installation: 20%
+Virus Installation: 30%
+Virus Installation: 40%
+Virus Installation: 50%
+Virus Installation: 60%
+Virus Installation: 70%
+Virus Installation: 80%
+Virus Installation: 90%
+Virus Installation: 100%
+
+Installation completed
+
+Virus.Started: downloading packages - 10%
+Virus.Started: downloading packages - 20%
+Virus.Started: downloading packages - 30%
+Virus.Started: downloading packages - 40%
+Virus.Started: downloading packages - 50%
+Virus.Started: downloading packages - 60%
+Virus.Started: downloading packages - 70%
+Virus.Started: downloading packages - 80%
+Virus.Started: downloading packages - 90%
+Virus.Started: downloading packages - 100%
+
+Package 1 of 10: Downloading - 10%
+Package 1 of 10: Downloading - 20%
+Package 1 of 10: Downloading - 30%
+Package 1 of 10: Downloading - 40%
+Package 1 of 10: Downloading - 50%
+Package 1 of 10: Downloading - 60%
+Package 1 of 10: Downloading - 70%
+Package 1 of 10: Downloading - 80%
+Package 1 of 10: Downloading - 90%
+Package 1 of 10: Downloading - 100%
+Package 2 of 10: Downloading - 10%
+Package 2 of 10: Downloading - 20%
+Package 2 of 10: Downloading - 30%
+Package 2 of 10: Downloading - 40%
+Package 2 of 10: Downloading - 50%
+Package 2 of 10: Downloading - 60%
+Package 2 of 10: Downloading - 70%
+Package 2 of 10: Downloading - 80%
+Package 2 of 10: Downloading - 90%
+Package 2 of 10: Downloading - 100%
+Package 3 of 10: Downloading - 10%
+Package 3 of 10: Downloading - 20%
+Package 3 of 10: Downloading - 30%
+Package 3 of 10: Downloading - 40%
+Package 3 of 10: Downloading - 50%
+Package 3 of 10: Downloading - 60%
+Package 3 of 10: Downloading - 70%
+Package 3 of 10: Downloading - 80%
+Package 3 of 10: Downloading - 90%
+Package 3 of 10: Downloading - 100%
+Package 4 of 10: Downloading - 10%
+Package 4 of 10: Downloading - 20%
+Package 4 of 10: Downloading - 30%
+Package 4 of 10: Downloading - 40%
+Package 4 of 10: Downloading - 50%
+Package 4 of 10: Downloading - 60%
+Package 4 of 10: Downloading - 70%
+Package 4 of 10: Downloading - 80%
+Package 4 of 10: Downloading - 90%
+Package 4 of 10: Downloading - 100%
+
+extension.Virus1 launched
+extension.Virus2 launched
+extension.Virus3 launched
+extension.Virus4 launched
+extension.Virus5 launched
+extension.Virus6 launched
+extension.Virus7 launched
+extension.Virus8 launched
+extension.Virus9 launched
+
+Stealing userData.name
+Stealing userData.bankInfo
+Stealing userData.adr
+Stealing userData.age
+Stealing userData.bloodtype
+
+Stealing Completed -->
+
+
