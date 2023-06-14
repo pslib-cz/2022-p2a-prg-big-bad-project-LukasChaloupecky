@@ -9,7 +9,7 @@
 ## Pravidla
 * Vrázite do zdi => smrt
 * Vrazáte do ocasu => smrt
-* Pokusíte se otočit o 180 stupňů když tam máte ocas - Takže si to pamatujte <b style="color=red">( ͡° ͜ʖ ͡°)<b>
+* Pokusíte se otočit o 180 stupňů když tam máte ocas - Takže si to pamatujte <b style="color:red">( ͡° ͜ʖ ͡°)<b>
 
 
 ## Atd.
