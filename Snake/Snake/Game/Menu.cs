@@ -96,7 +96,7 @@ namespace SnakeGame.Games
             while (!CorrectValue)
             {
 
-                Console.WriteLine("Set box lenght - depends on font size - [ Min = 20 , Max =  (100, the max can depend on your device) ]- recommended 70");
+                Console.WriteLine("Set box lenght - depends on font size - [ Min = 20 , Max =  (100, the max can depend on your device) ]- recommended 146");
                 CorrectValue = Int32.TryParse(Console.ReadLine(), out boxX);
                 if (CorrectValue &&( boxX < 20 || boxX > Console.BufferWidth-1))
                 {
@@ -110,7 +110,7 @@ namespace SnakeGame.Games
             CorrectValue = false;
             while (!CorrectValue)
             {
-                Console.WriteLine("Set box height - depends on font size - [ Min = 20 , Max = (100, the max can depend on your device) ] - recommended 20,");
+                Console.WriteLine("Set box height - depends on font size - [ Min = 20 , Max = (100, the max can depend on your device) ] - recommended 31,");
                 CorrectValue = Int32.TryParse(Console.ReadLine(), out boxY);
                 if (CorrectValue &&( boxY < 20 || boxY > Console.BufferHeight-7))
                 {
