@@ -85,7 +85,7 @@ namespace SnakeGame.Games
                 Console.Write('█');
             }
             SetCursorEasy(Snake.Head);
-            Console.ForegroundColor = ConsoleColor.White;
+            Console.ForegroundColor = ConsoleColor.Green;
             Console.Write(Snake.HeadChar[(int)Snake.Direction]);
 
             // nakresli skore
