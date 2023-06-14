@@ -41,18 +41,17 @@ namespace SnakeGame.Games
             Console.Clear();
 
             // nakresli inside box - nepoužívat - vypadá to divně, bílá se nehodí
-            /*
+            
             for(int i = 0; i < sizeY; i++)
             {
-                Console.BackgroundColor = ConsoleColor.White;
+                Console.BackgroundColor = ConsoleColor.Gray; // inside box color
                 Console.SetCursorPosition(0, i);
                 Console.WriteLine(new string(' ', sizeX+1));
             }
-            Console.BackgroundColor = ConsoleColor.Black;
-            */
+            
 
             // nakresli border
-            Console.ForegroundColor = ConsoleColor.DarkGray;
+            Console.ForegroundColor = ConsoleColor.DarkGray; // border color
             Console.SetCursorPosition(0, 0);
             Console.WriteLine(new string(BorderChar, sizeX+1));
             Console.SetCursorPosition(0, sizeY);
