@@ -14,6 +14,7 @@ namespace SnakeGame.Entity
         public Coords Head;
         public DirectionEnum Direction = DirectionEnum.STAY;
         public DirectionEnum PrevDire = DirectionEnum.STAY;
+        public Coords removedPart;
 
         public readonly string HeadChar = "▲▼◄►▲";
         public bool isAlive = false;

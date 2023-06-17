@@ -17,6 +17,9 @@ namespace SnakeGame.Games
         public Fruit Fruit;
         public int Score = 0;
         public readonly char BorderChar = '█';
+        public bool writeBorder = true;
+        public bool writeFruit = true;
+        public bool removedPart = false;
 
         public bool EndedByDeath = false;
 
@@ -41,40 +44,52 @@ namespace SnakeGame.Games
         }
         public void UpdateView()
         {
-            Console.Clear();
 
             // nakresli inside box - nepoužívat - vypadá to divně, bílá se nehodí
-            
+            /*
             for(int i = 0; i < sizeY; i++)
             {
-                Console.BackgroundColor = ConsoleColor.Black; // inside box color
+                Console.BackgroundColor = ConsoleColor.White;
                 Console.SetCursorPosition(0, i);
                 Console.WriteLine(new string(' ', sizeX+1));
             }
-            
-
-            // nakresli border
-            Console.ForegroundColor = ConsoleColor.DarkGray; // border color
-            Console.SetCursorPosition(0, 0);
-            Console.WriteLine(new string(BorderChar, sizeX+1));
-            Console.SetCursorPosition(0, sizeY);
-            Console.WriteLine(new string(BorderChar, sizeX+1));
-            for (int i = 0; i < sizeY; i++)
+            Console.BackgroundColor = ConsoleColor.Black;
+            */
+            if (writeBorder)
             {
-                Console.SetCursorPosition(0, i);
-                Console.Write(BorderChar);
-                Console.SetCursorPosition(sizeX, i);
-                Console.Write(BorderChar);
+                // nakresli border
+                Console.ForegroundColor = ConsoleColor.DarkGray;
+                Console.SetCursorPosition(0, 0);
+                Console.WriteLine(new string(BorderChar, sizeX + 1));
+                Console.SetCursorPosition(0, sizeY);
+                Console.WriteLine(new string(BorderChar, sizeX + 1));
+                for (int i = 0; i < sizeY; i++)
+                {
+                    Console.SetCursorPosition(0, i);
+                    Console.Write(BorderChar);
+                    Console.SetCursorPosition(sizeX, i);
+                    Console.Write(BorderChar);
+                }
+                writeBorder = false;
             }
 
 
-
             // nakresli fruit
-
-            SetCursorEasy(Fruit.Location);
-            Console.ForegroundColor = Fruit.FruitTypeColor[Fruit.FruitType];
-            Console.Write(Fruit.FruitTypes[Fruit.FruitType]);
+            if (writeFruit)
+            {
+                SetCursorEasy(Fruit.Location);
+                Console.ForegroundColor = Fruit.FruitTypeColor[Fruit.FruitType];
+                Console.Write(Fruit.FruitTypes[Fruit.FruitType]);
+                writeFruit = false;
+            }
             // naklesli hada
+            if (removedPart)
+            {
+                SetCursorEasy(Snake.removedPart);
+                Console.BackgroundColor = ConsoleColor.Black;
+                Console.Write(' ');
+                removedPart = false;
+            }
             for (int i = 0; i < Snake.Body.Count; i++)
             {
                 SetCursorEasy(Snake.Body[i]);
@@ -87,8 +102,8 @@ namespace SnakeGame.Games
                 Console.Write('█');
             }
             SetCursorEasy(Snake.Head);
-            Console.ForegroundColor = ConsoleColor.Green;
-            Console.Write(Snake.HeadChar[(int)Snake.Direction]);
+            Console.ForegroundColor = ConsoleColor.White;
+            Console.Write(Snake.HeadChar[(int)Snake.Direction]); ;
 
             // nakresli skore
 
@@ -132,7 +147,9 @@ namespace SnakeGame.Games
             }
             else if (Snake.Direction != Snake.DirectionEnum.STAY) // if only moved -> remove last cell
             {
+                Snake.removedPart = new Coords(Snake.Body[0].X, Snake.Body[0].Y);
                 Snake.Body.RemoveAt(0);
+                removedPart = true;
             }
 
             if (Snake.isAlive)

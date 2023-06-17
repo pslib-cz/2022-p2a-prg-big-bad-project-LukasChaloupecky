@@ -8,24 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\lukas.chaloupe.021\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\lukyn\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lukas.chaloupe.021\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky__\\Snake\\Snake\\Snake.csproj",
+      "projectUniqueName": "C:\\Users\\lukyn\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky_finale\\Snake\\Snake\\Snake.csproj",
       "projectName": "Snake",
-      "projectPath": "C:\\Users\\lukas.chaloupe.021\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky__\\Snake\\Snake\\Snake.csproj",
-      "packagesPath": "C:\\Users\\lukas.chaloupe.021\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lukas.chaloupe.021\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky__\\Snake\\Snake\\obj\\",
+      "projectPath": "C:\\Users\\lukyn\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky_finale\\Snake\\Snake\\Snake.csproj",
+      "packagesPath": "C:\\Users\\lukyn\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lukyn\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky_finale\\Snake\\Snake\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\lukas.chaloupe.021\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Users\\lukyn\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -33,7 +28,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +61,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.302\\RuntimeIdentifierGraph.json"
       }
     }
   }
