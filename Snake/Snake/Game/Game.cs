@@ -138,6 +138,7 @@ namespace SnakeGame.Games
 
             if (Coords.Equel(Snake.Head, Fruit.Location)) // Checks if ate fruit
             {
+                writeFruit = true;
                 Fruit.GenerateFruit(Snake.Body, sizeX, sizeY);
                 Score += 10;
             }

@@ -1,0 +1,9 @@
+C:\Users\lukyn\source\repos\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\Snake\Snake\bin\Release\net6.0\publish\win-x64\Snake.pdb
+C:\Users\lukyn\source\repos\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\Snake\Snake\bin\Release\net6.0\publish\win-x64\Data\BB.txt
+C:\Users\lukyn\source\repos\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\Snake\Snake\bin\Release\net6.0\publish\win-x64\Data\Credits.txt
+C:\Users\lukyn\source\repos\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\Snake\Snake\bin\Release\net6.0\publish\win-x64\Data\DeathScreen.txt
+C:\Users\lukyn\source\repos\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\Snake\Snake\bin\Release\net6.0\publish\win-x64\Data\Logo.txt
+C:\Users\lukyn\source\repos\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\Snake\Snake\bin\Release\net6.0\publish\win-x64\Data\VirusPrank.txt
+C:\Users\lukyn\source\repos\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\Snake\Snake\bin\Release\net6.0\publish\win-x64\Data\LastScore.txt
+C:\Users\lukyn\source\repos\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\Snake\Snake\bin\Release\net6.0\publish\win-x64\Data\MaxScore.txt
+C:\Users\lukyn\source\repos\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\Snake\Snake\bin\Release\net6.0\publish\win-x64\Snake.exe

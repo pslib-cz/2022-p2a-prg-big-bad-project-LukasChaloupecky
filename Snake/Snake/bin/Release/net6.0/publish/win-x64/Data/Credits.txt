@@ -1,0 +1,7 @@
+﻿Game creator: Lukáš Chaloupecký
+Original game copyright: Taneli Armanto 1997
+Used programming language: c#
+
+I welcome everyone who enjoys playing simple games
+It is so nice to know that someone clicked the cleddits
+

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lukyn\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky_finale\\Snake\\Snake\\Snake.csproj": {}
+    "C:\\Users\\lukyn\\source\\repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\\Snake\\Snake\\Snake.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lukyn\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky_finale\\Snake\\Snake\\Snake.csproj": {
+    "C:\\Users\\lukyn\\source\\repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\\Snake\\Snake\\Snake.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lukyn\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky_finale\\Snake\\Snake\\Snake.csproj",
+        "projectUniqueName": "C:\\Users\\lukyn\\source\\repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\\Snake\\Snake\\Snake.csproj",
         "projectName": "Snake",
-        "projectPath": "C:\\Users\\lukyn\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky_finale\\Snake\\Snake\\Snake.csproj",
+        "projectPath": "C:\\Users\\lukyn\\source\\repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\\Snake\\Snake\\Snake.csproj",
         "packagesPath": "C:\\Users\\lukyn\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lukyn\\Source\\Repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky_finale\\Snake\\Snake\\obj\\",
+        "outputPath": "C:\\Users\\lukyn\\source\\repos\\2022-p2a-prg-big-bad-project-LukasChaloupecky___finalee\\Snake\\Snake\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lukyn\\AppData\\Roaming\\NuGet\\NuGet.Config",

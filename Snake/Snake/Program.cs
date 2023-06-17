@@ -1,6 +1,7 @@
 ﻿using SnakeGame.Entity;
 using SnakeGame.Games;
 using System.Diagnostics;
+using System.Runtime.InteropServices;
 using System.Xml.Linq;
 
 
@@ -9,11 +10,21 @@ namespace SnakeGame
 
     class Program
     {
+        [DllImport("user32.dll")]
+        static extern bool ShowCursor(bool bShow);
+        
+
 
         static void Main(string[] args)
         {
+            // Disable cursor
+            ShowCursor(false);
+
+            // Fullscreen
+           
 
 
+            // Snake Code
             int TimeOut = 100; // default
             ConsoleKey Key;
             ConsoleKey MenuKey = ConsoleKey.Escape;
